@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">辅助</string>
+    <string name="text">开发辅助，获取顶层类名</string>
+</resources>
